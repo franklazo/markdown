@@ -1,0 +1,7 @@
+# Líneas horizontales
+
+```markdown
+---
+```
+
+---
